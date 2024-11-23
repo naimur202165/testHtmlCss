@@ -10,7 +10,13 @@ in every intanches \
 // There is slightly difference on that particular items that we all have to be the most 
 
 
-//Statement of doing something that we all have to knowing all types of memory of all of suddenly knowing that we all have to be
+//Statement of doing something that we all have to knowing all types of memory of all   of suddenly knowing that we all have to be
 
 
 
+describe what is arrow function and what is the usecase of arrow function
+
+Basicaly arrow function is the another types of function which was introduced on 2015. 2015 was also known as major updating year of javascript 
+
+
+parenthis is most commonly known as the bigest awsome thing in the world
